@@ -1,2 +1,2 @@
 # pyFootball
-Text-based football game in Python
+A text-based football game in Python
